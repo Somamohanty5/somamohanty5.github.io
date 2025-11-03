@@ -20,7 +20,7 @@ Improved prediction accuracy through class balancing and feature selection.
 ---
 
 ### 🗣️ Hybrid Semantic–Graph Speech Analysis for Alzheimer’s Detection  
-[![GitHub](https://img.shields.io/badge/Code-View%20on%20GitHub-black)](https://github.com/Somamohanty5/Alzheimers-Semantic-Graph-Analysis)  
+[![GitHub](https://img.shields.io/badge/Code-View%20on%20GitHub-black)](https://github.com/Somamohanty5/Hybrid-Semantic-Graph-Speech-Analysis-for-Early-Detection-of-Alzheimer-s-Disease)  
 Built a pipeline combining **Sentence-BERT embeddings** and **graph metrics (NVG/HVG)** for early cognitive-decline detection.  
 **Presented at SEAWINDS Symposium 2025 (MSOE).**
 
