@@ -4,6 +4,31 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
+title: "Soma Mohanty"
+description: "AI Researcher | Conversational AI & HealthTech | M.S. CS @ UWM"
+url: "https://somamohanty5.github.io"
+theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
+author:
+  name: "Soma Mohanty"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Graduate CS student @ UWM | Research in Conversational AI, NLP, and HealthTech ML"
+  location: "Milwaukee, WI"
+  email: "somamohanty58@gmail.com"
+  linkedin: "soma-mohanty"
+  github: "Somamohanty5"
+
+navigation:
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Research"
+    url: /research/
+  - title: "Experience"
+    url: /experience/
+  - title: "Contact"
+    url: /contact/
 
 # Theme Settings
 #
