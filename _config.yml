@@ -115,3 +115,9 @@ exclude:
   - README
   - CHANGELOG.md
   - minimal-mistakes-jekyll.gemspec
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+include:
+  - _pages
