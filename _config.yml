@@ -21,7 +21,7 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/soma-mohanty"
+      url: "https://www.linkedin.com/in/soma-mohanty-a257a816a/"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/Somamohanty5"
@@ -71,7 +71,7 @@ social:
   type: Person
   name: "Soma Mohanty"
   links:
-    - "https://linkedin.com/in/soma-mohanty"
+    - "https://www.linkedin.com/in/soma-mohanty-a257a816a/"
     - "https://github.com/Somamohanty5"
 
 # --------------------------
@@ -81,7 +81,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/soma-mohanty"
+      url: "https://www.linkedin.com/in/soma-mohanty-a257a816a/"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/Somamohanty5"
