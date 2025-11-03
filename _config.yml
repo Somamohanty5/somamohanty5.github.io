@@ -103,3 +103,15 @@ defaults:
       comments: false
       share: false
       related: false
+  # Ignore all theme example content that breaks the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - docs
+  - /docs
+  - /test
+  - README
+  - CHANGELOG.md
+  - minimal-mistakes-jekyll.gemspec
