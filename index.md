@@ -7,6 +7,8 @@ author_profile: true
 
 Welcome! I'm **Soma Mohanty**, an AI researcher focused on **Conversational AI, NLP, and HealthTech ML**.  
 I’m currently pursuing my M.S. in Computer Science at the University of Wisconsin–Milwaukee.
+
+
 [📄 Download Resume](https://somamohanty5.github.io/assets/SOMA_MOHANTY_RESUME.pdf){: .btn .btn--primary}
 
 My research includes:
