@@ -30,7 +30,7 @@ Built a pipeline combining **Sentence-BERT embeddings** and **graph metrics (NVG
 [![GitHub](https://img.shields.io/badge/Code-View%20on%20GitHub-black)](https://github.com/Somamohanty5/Making-Instructional-Videos-Smarter-and-Easier-to-Follow)
 Developed an AI system aligning YouTube narration with step-by-step instructions using **Whisper**, **Sentence-BERT**, and **AllenNLP SRL**.  
 Built an evaluation pipeline that compares lexical vs semantic similarity for instructional clarity.  
-*Collaborative UWM AI Term Project (Spring 2025).*
+
 
 ---
 
