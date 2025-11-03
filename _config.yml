@@ -6,7 +6,7 @@ title: "Soma Mohanty"
 description: "AI Researcher | Conversational AI & HealthTech | M.S. CS @ UWM"
 url: "https://somamohanty5.github.io"
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "plum"   # Try “sunrise” or “air” if you want different color palettes
+minimal_mistakes_skin: "sunrise"   # Try “sunrise” or “air” if you want different color palettes
 locale: "en-US"
 
 # --------------------------
