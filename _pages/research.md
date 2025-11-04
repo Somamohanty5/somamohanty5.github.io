@@ -58,7 +58,3 @@ This research models spontaneous speech as semantic graphs and correlates their 
 - Ethical and human-grounded language model evaluation  
 - Semantic–graph fusion for explainable HealthTech AI  
 - Multi-agent frameworks for trust and interpretability  
-
----
-
-📍 *Updated: November 3, 2025*
