@@ -84,6 +84,3 @@ Applied classical ML and deep learning models to DNA mutation data to classify b
 
 **Goal:** To enhance early diagnosis of breast cancer using interpretable bioinformatics models.
 
----
-
-📍 *Updated: November 3, 2025*
