@@ -6,13 +6,14 @@ permalink: /experience/
 
 ### 🎓 Academic & Research Roles
 - **Research Assistant** — University of Wisconsin–Milwaukee
-*(Feb 2025 – Present)*  
-  Working on **empathetic conversational AI** and **Alzheimer’s speech analysis** under Prof. Susan McRoy and Prof. Lu He.  
-  Projects include template-guided neural dialogue generation, semantic-graph speech modeling, and multimodal evaluation for cognitive decline detection.
+*(Feb 2025 – Present)*
+
+Working on **empathetic conversational AI** and **Alzheimer’s speech analysis** under Prof. Susan McRoy and Prof. Lu He.  
+Projects include template-guided neural dialogue generation, semantic-graph speech modeling, and multimodal evaluation for cognitive decline detection.
 
 - **Teaching Assistant / Grader** — CS 395 (Ethics) & CS 469 (Security)
-  *(Sept 2025 – Present)* 
-  Supporting grading, rubric creation, and feedback for undergraduate computer-science courses focusing on ethical AI, security, and professional practice.
+  *(Sept 2025 – Present)*
+Supporting grading, rubric creation, and feedback for undergraduate computer-science courses focusing on ethical AI, security, and professional practice.
 
 ---
 
