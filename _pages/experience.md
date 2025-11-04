@@ -28,7 +28,7 @@ permalink: /experience/
   - Designed a data-cloning automation solution that reduced QA workload by **30%**.  
   **Tech Used:** Java, Spring, Hibernate, Ext JS, Eclipse  
 
-- **Technical Intern** — HighRadius Private Ltd, Odisha, India *(May 2020 – Jun 2021)*  
+- **Technical Intern** — HighRadius Private Ltd, Odisha, India *(Mar 2020 – Jun 2021)*  
   - Designed a **payment-forecasting dashboard** using **Random Forest Regression** to predict invoice payment dates.  
   - Built a **voice-based NLP bot** that answered finance-related queries in real time.  
   **Tech Used:** Python, JavaScript, Random Forest, NLP, data visualization  
