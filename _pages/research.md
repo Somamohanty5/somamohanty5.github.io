@@ -37,6 +37,7 @@ We evaluate four setups — *Survey only*, *Survey + Ethics*, *Survey + Template
 ### 🧠 2. Hybrid Semantic–Graph Speech Analysis for Alzheimer’s Detection
 **Title:** *Correlating Semantic Graph Patterns with Cognitive Decline Markers*  
 **Advisors:** Prof. Lu He (UWM)  
+**Duration:** Oct 2025 – Present  
 **Accepted at:** SEAWINDS Symposium 2025 (MSOE)
 
 This project explores the early detection of Alzheimer’s disease using **speech-based graph analytics** and **semantic embeddings**.  
