@@ -44,6 +44,3 @@ permalink: /experience/
   Mentoring middle- and high-school students in Python programming and creative computing projects.  
   Helping young learners build confidence in problem-solving and algorithmic thinking.
 
----
-
-📍 *Updated: November 3, 2025*
