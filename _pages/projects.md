@@ -7,79 +7,79 @@ permalink: /projects/
 ### 🧭 Peer-Mentor Advising Chatbot  
 **FastAPI + TinyLlama | Local LLM | Feb 2025 – Present**  
 
-Developed a multi-turn chatbot simulating faculty–student advising conversations using **FastAPI** and **TinyLlama**.  
-The project tests a **Survey-Grounded + Template→Rewrite** generation framework versus a plain LLM baseline.  
+I am developing a multi-turn chatbot that simulates faculty–student advising conversations using **FastAPI** and **TinyLlama**.  
+This project tests a **Survey-Grounded + Template→Rewrite** framework against a plain LLM baseline.
 
 **Key Highlights**
-- Designed **template-guided neural generation**: insert stored values (GPA, workload, prerequisites), then rewrite for empathy & clarity.  
-- Implemented local **LLM-as-judge** evaluation (factuality, empathy, relevance, naturalness).  
-- Introduced adaptive student profiles (weak / average / strong) to test tone alignment.  
-- Logs structured JSON templates and final responses for factual audits.
+- Implements **template-guided neural generation** to insert academic data (GPA, workload, prerequisites) and rewrite for empathy and fluency.  
+- Evaluates factuality, empathy, relevance, and naturalness using **LLM-as-judge** and human ratings.  
+- Introduces adaptive student profiles (weak / average / strong) to study tone and response style.  
+- Logs both structured templates and rewritten text for factual consistency.
 
-**Goal:** Build a *trustworthy and empathetic* advising chatbot capable of accurate, human-like academic guidance.
+**Goal:** To design a *trustworthy, empathetic* advising chatbot that personalizes academic support.
 
 ---
 
 ### 🧠 Hybrid Semantic–Graph Speech Analysis for Alzheimer’s Detection  
-**Sentence-BERT + Graph Metrics | Presented at SEAWINDS Symposium 2025 (MSOE)**  
+**Sentence-BERT + Graph Metrics | SEAWINDS Symposium 2025 (MSOE) | Oct 2025 – Present**   
 [🔗 View Repository](https://github.com/Somamohanty5/Alzheimer-Speech-Graph-Analysis)
 
-Developed a hybrid semantic–graph pipeline to detect early cognitive decline using speech data.  
+I am building a hybrid semantic–graph pipeline that analyzes speech coherence for early Alzheimer’s detection.
 
 **Core Components**
-- Extracted semantic graphs from spontaneous speech (Pitt Corpus).  
-- Computed **graph metrics** (density, degree centrality, clustering).  
-- Modeled semantic coherence using **Sentence-BERT embeddings**.  
-- Compared graph-based and semantic features to identify early Alzheimer’s indicators.  
+- Extract semantic embeddings using **Sentence-BERT**.  
+- Construct semantic graphs to represent lexical and contextual links.  
+- Compute **graph metrics** (density, clustering, degree) to capture disorganization patterns.  
+- Evaluate relationships between linguistic graph structure and cognitive decline.
 
-**Outcome:** Demonstrated explainable linguistic disorganization patterns that can act as early biomarkers for Alzheimer’s.
+**Goal:** To identify speech-based markers that can serve as explainable early indicators of Alzheimer’s disease.
 
 ---
 
 ### 🥿 Optimizing Inventory for Footwear Retailers  
-**NLP + Sentiment Analysis | Python, Pandas, VADER, RoBERTa, LDA**  
+**NLP + Sentiment Analysis | Python, Pandas, VADER, RoBERTa, LDA | Oct 2024 – Dec 2024** 
 [🔗 View Repository](https://github.com/Somamohanty5/OPTIMIZING-INVENTORY-AND-SALES-STRATEGY-FOR-A-FOOTWEAR-RETAILER-USING-SENTIMENT-AND-TREND-ANALYSIS-)
 
-Analyzed 20K Amazon shoe reviews using **VADER**, **RoBERTa**, and **LDA** to extract sentiment and brand trends.  
+Analyzed 20K Amazon shoe reviews using **VADER**, **RoBERTa**, and **LDA** to extract sentiment and brand trends.
 
 **Highlights**
-- Uncovered customer perceptions on comfort, durability, and style.  
-- Identified seasonal and brand-level preference shifts.  
-- Suggested data-driven stocking strategies projected to reduce inventory waste by up to **15%**.
+- Discovered customer sentiments on comfort, durability, and pricing.  
+- Identified annual brand preference trends using topic modeling.  
+- Recommended data-driven stocking strategies projected to reduce waste by **up to 15%**.
 
-**Goal:** Use sentiment analytics to guide inventory optimization and improve retail forecasting.
+**Goal:** To optimize inventory decisions using data-driven sentiment and trend analysis.
 
 ---
 
 ### 🎥 Making Instructional Videos Smarter and Easier to Follow  
-**Whisper + Sentence-BERT + spaCy + AllenNLP | NLP & Semantic AI Pipeline**  
+**Whisper + Sentence-BERT + spaCy + AllenNLP | NLP & Semantic AI Pipeline  | Feb 2025 – May 2025**  
 [🔗 View Repository](https://github.com/Somamohanty5/Making-Instructional-Videos-Smarter-and-Easier-to-Follow)
 
-Built an **AI-powered system** that aligns narration from YouTube instructional videos with step-by-step textual instructions using NLP and semantic matching.  
+Built an **AI-powered pipeline** that aligns YouTube instructional video narration with step-by-step textual instructions using NLP and semantic similarity.
 
 **Key Features**
-- Audio transcription with **Whisper ASR**.  
-- Instruction extraction via **POS tagging** and heuristics.  
-- Dual matching approach: word-overlap (NLP) vs semantic similarity (Sentence-BERT).  
-- Extracted **Action**, **Tool**, and **Purpose** with spaCy + AllenNLP SRL.  
-- Visualized F1 scores, cosine similarity, and mismatch word clouds.
+- Transcribed audio with **Whisper ASR**.  
+- Extracted instructional sentences using POS tagging and heuristics.  
+- Performed dual matching: **NLP-based (word overlap)** vs **AI-based (semantic similarity)**.  
+- Extracted **Action**, **Tool**, and **Purpose** via spaCy + AllenNLP SRL.  
+- Visualized results using F1 score bar charts, word clouds, and similarity boxplots.
 
-**Impact:** Demonstrated that semantic AI matching significantly outperforms lexical overlap for aligning instructional content.
+**Impact:** Demonstrated that semantic AI matching significantly outperformed lexical overlap for aligning instructional content.
 
 ---
 
 ### 🧬 Breast Cancer Subtype Prediction  
-**SMOTE + Random Forest + LSTM | Bioinformatics & ML**  
+**SMOTE + Random Forest + LSTM | Bioinformatics & ML  | Oct 2024 – Dec 2024**  
 [🔗 View Repository](https://github.com/Somamohanty5/Breast-Cancer-Subtype-Prediction)
 
-Applied classical ML and deep learning models on DNA mutation datasets to classify breast cancer subtypes.  
+Applied classical ML and deep learning models to DNA mutation data to classify breast cancer subtypes.
 
 **Pipeline**
-- Handled imbalanced data using **SMOTE** and **Isolation Forest**.  
-- Compared **Random Forest**, **SVM**, **XGBoost**, and **LSTM** performance.  
-- Evaluated using ROC-AUC and F1 metrics to identify robust predictors.  
+- Balanced data using **SMOTE** and **Isolation Forest**.  
+- Compared **Random Forest**, **SVM**, **XGBoost**, and **LSTM** models.  
+- Evaluated using ROC-AUC and F1 metrics to identify strong predictors.
 
-**Goal:** Improve early subtype identification and understand mutation-level differences in cancer progression.
+**Goal:** To enhance early diagnosis of breast cancer using interpretable bioinformatics models.
 
 ---
 
