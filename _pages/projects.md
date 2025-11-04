@@ -37,7 +37,8 @@ I am building a hybrid semantic–graph pipeline that analyzes speech coherence 
 ---
 
 ### 🥿 Optimizing Inventory for Footwear Retailers  
-**NLP + Sentiment Analysis | Python, Pandas, VADER, RoBERTa, LDA | Oct 2024 – Dec 2024** 
+**NLP + Sentiment Analysis | Python, Pandas, VADER, RoBERTa, LDA | Oct 2024 – Dec 2024**
+
 [![GitHub](https://img.shields.io/badge/Code-View%20on%20GitHub-black)](https://github.com/Somamohanty5/OPTIMIZING-INVENTORY-AND-SALES-STRATEGY-FOR-A-FOOTWEAR-RETAILER-USING-SENTIMENT-AND-TREND-ANALYSIS-)
 
 Analyzed 20K Amazon shoe reviews using **VADER**, **RoBERTa**, and **LDA** to extract sentiment and brand trends.
