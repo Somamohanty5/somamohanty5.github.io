@@ -22,6 +22,7 @@ This project tests a **Survey-Grounded + Template→Rewrite** framework against 
 
 ### 🧠 Hybrid Semantic–Graph Speech Analysis for Alzheimer’s Detection  
 **Sentence-BERT + Graph Metrics | SEAWINDS Symposium 2025 (MSOE) | Oct 2025 – Present**   
+
 [![GitHub](https://img.shields.io/badge/Code-View%20on%20GitHub-black)](https://github.com/Somamohanty5/Hybrid-Semantic-Graph-Speech-Analysis-for-Early-Detection-of-Alzheimer-s-Disease)
 
 I am building a hybrid semantic–graph pipeline that analyzes speech coherence for early Alzheimer’s detection.
@@ -53,6 +54,7 @@ Analyzed 20K Amazon shoe reviews using **VADER**, **RoBERTa**, and **LDA** to ex
 
 ### 🎥 Making Instructional Videos Smarter and Easier to Follow  
 **Whisper + Sentence-BERT + spaCy + AllenNLP | NLP & Semantic AI Pipeline  | Feb 2025 – May 2025**  
+
 [![GitHub](https://img.shields.io/badge/Code-View%20on%20GitHub-black)](https://github.com/Somamohanty5/Making-Instructional-Videos-Smarter-and-Easier-to-Follow)
 
 Built an **AI-powered pipeline** that aligns YouTube instructional video narration with step-by-step textual instructions using NLP and semantic similarity.
@@ -70,6 +72,7 @@ Built an **AI-powered pipeline** that aligns YouTube instructional video narrati
 
 ### 🧬 Breast Cancer Subtype Prediction  
 **SMOTE + Random Forest + LSTM | Bioinformatics & ML  | Oct 2024 – Dec 2024**  
+
 [![GitHub](https://img.shields.io/badge/Code-View%20on%20GitHub-black)](https://github.com/Somamohanty5/Predicting-breast-cancer-subtypes-using-machine-learning-and-dna-mutation-data)
 
 Applied classical ML and deep learning models to DNA mutation data to classify breast cancer subtypes.
