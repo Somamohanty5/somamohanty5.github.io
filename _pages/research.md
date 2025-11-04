@@ -4,61 +4,61 @@ title: "Research"
 permalink: /research/
 ---
 
-My current research bridges **Conversational AI**, **HealthTech ML**, and **Human–AI Interaction** — focusing on ethical, explainable, and empathetic systems for real-world guidance and cognitive health.
+My research focuses on building **trustworthy, empathetic, and explainable AI systems** at the intersection of **Conversational AI**, **HealthTech ML**, and **Human–AI Interaction**.
 
 ---
 
 ### 🧭 1. Peer-Mentor Advising Chatbot (Thesis Project)
 **Title:** *Survey-Grounded Style + Template→Rewrite vs Plain LLM*  
-**Advisors:** Prof. Susan McRoy (UWM)  
+**Advisor:** Prof. Susan McRoy (University of Wisconsin–Milwaukee)  
 **Duration:** Feb 2025 – Present  
 
-This research builds a peer-mentor ↔ student advising chatbot that compares two advisor strategies:  
+I am developing a peer-mentor ↔ student advising chatbot that compares two advisor strategies:  
 1. **Raw LLM dialogs**, and  
-2. **Template→Rewrite generation**, where stored academic values (GPA, prerequisites, workload) are inserted via templates and rewritten by the model for fluency and empathy.
+2. **Template→Rewrite generation**, where stored academic values (GPA, prerequisites, workload) are inserted via templates and rewritten for fluency and empathy.
 
-We evaluate four setups — *Survey only*, *Survey + Ethics*, *Survey + Templates*, and *Survey + Ethics + Templates* — across weak, average, and strong student profiles.
+I evaluate four conditions — *Survey only*, *Survey + Ethics*, *Survey + Templates*, and *Survey + Ethics + Templates* — across weak, average, and strong student profiles.
 
-**Key Focus Areas**
-- Factual accuracy and tone alignment in academic advising dialogs  
-- Role of survey-grounded and ethics-informed style conditioning  
+**Research Focus**
+- Modeling tone, ethics, and factual accuracy in advising dialogs  
+- Evaluating empathy and relevance in LLM-based academic guidance  
 - Template-guided neural generation for trustworthy educational AI  
 
 **Methods**
-- Llama-3.1-8B-Instruct (local, via Ollama/LM Studio)  
-- Template→Rewrite pipeline with JSON logging for factual audits  
-- LLM-as-judge evaluation (factuality / empathy / relevance / naturalness)  
-- Human pilot with peer mentors & staff evaluators  
+- Llama-3.1-8B-Instruct (local via Ollama/LM Studio)  
+- Template→Rewrite pipeline with structured JSON logging for factual audits  
+- LLM-as-judge scoring (factuality, empathy, relevance, naturalness)  
+- Human pilot evaluation with peer mentors and academic advisors  
 
-**Goal:** Develop reproducible frameworks for *trustworthy, empathetic dialog agents* in academic and career contexts.  
+**Goal:** To develop reproducible frameworks for *empathetic and accurate conversational agents* in educational settings.
 
 ---
 
-### 🧠 2. Hybrid Semantic–Graph Speech Analysis for Alzheimer’s Detection
+### 🧠 2. Hybrid Semantic–Graph Speech Analysis for Alzheimer’s Detection  
 **Title:** *Correlating Semantic Graph Patterns with Cognitive Decline Markers*  
-**Advisors:** Prof. Lu He (UWM)  
+**Advisor:** Prof. Lu He (University of Wisconsin–Milwaukee)  
 **Duration:** Oct 2025 – Present  
-**Accepted at:** SEAWINDS Symposium 2025 (MSOE)
+**Accepted at:** SEAWINDS Symposium 2025 (MSOE)  
 
-This project explores the early detection of Alzheimer’s disease using **speech-based graph analytics** and **semantic embeddings**.  
-We model spontaneous speech as semantic graphs, extracting features such as node degree, edge density, and global coherence, then correlate these with cognitive-decline markers.
+I am investigating early detection of Alzheimer’s disease through **speech graph analytics** and **semantic embeddings**.  
+This research models spontaneous speech as semantic graphs and correlates their structural patterns with cognitive decline indicators.
 
-**Pipeline Overview**
-- **Input:** DementiaBank Pitt Corpus (transcript-only access)  
-- **Feature Extraction:** NetworkX + Sentence-BERT embeddings  
-- **Modeling:** Graph-metric + Transformer hybrid pipeline  
-- **Outcome:** Identify early linguistic disorganization patterns predictive of Alzheimer’s onset  
+**Research Components**
+- Process DementiaBank Pitt Corpus transcripts using Sentence-BERT  
+- Construct semantic graphs with NetworkX to analyze lexical connectivity  
+- Extract metrics such as graph density, node degree, and coherence  
+- Identify relationships between semantic disorganization and cognitive decline  
 
-**Goal:** Advance explainable speech biomarkers for cognitive health monitoring.  
-
----
-
-### 🧩 Research Themes
-- Empathetic and trustworthy dialog design  
-- Ethical large-language-model grounding  
-- Multimodal (semantic + graph) signal fusion for health AI  
-- Evaluation frameworks combining human + LLM judgment  
+**Goal:** To advance explainable speech biomarkers for early Alzheimer’s detection and cognitive health monitoring.
 
 ---
 
-📍 *Updated: November 3 2025*
+### 🧩 Broader Research Themes
+- Empathetic and factual conversational AI  
+- Ethical and human-grounded language model evaluation  
+- Semantic–graph fusion for explainable HealthTech AI  
+- Multi-agent frameworks for trust and interpretability  
+
+---
+
+📍 *Updated: November 3, 2025*
