@@ -27,7 +27,7 @@ This project tests a **Survey-Grounded + Template→Rewrite** framework against 
 
 I am building a hybrid semantic–graph pipeline that analyzes speech coherence for early Alzheimer’s detection.
 
-**Core Components**
+**Key Highlights**
 - Extract semantic embeddings using **Sentence-BERT**.  
 - Construct semantic graphs to represent lexical and contextual links.  
 - Compute **graph metrics** (density, clustering, degree) to capture disorganization patterns.  
@@ -44,7 +44,7 @@ I am building a hybrid semantic–graph pipeline that analyzes speech coherence 
 
 Analyzed 20K Amazon shoe reviews using **VADER**, **RoBERTa**, and **LDA** to extract sentiment and brand trends.
 
-**Highlights**
+**Key Highlights**
 - Discovered customer sentiments on comfort, durability, and pricing.  
 - Identified annual brand preference trends using topic modeling.  
 - Recommended data-driven stocking strategies.
@@ -59,7 +59,7 @@ Analyzed 20K Amazon shoe reviews using **VADER**, **RoBERTa**, and **LDA** to ex
 
 Built an **AI-powered pipeline** that aligns YouTube instructional video narration with step-by-step textual instructions using NLP and semantic similarity.
 
-**Key Features**
+**Key Highlights**
 - Transcribed audio with **Whisper ASR**.  
 - Extracted instructional sentences using POS tagging and heuristics.  
 - Performed dual matching: **NLP-based (word overlap)** vs **AI-based (semantic similarity)**.  
@@ -77,7 +77,7 @@ Built an **AI-powered pipeline** that aligns YouTube instructional video narrati
 
 Applied classical ML and deep learning models to DNA mutation data to classify breast cancer subtypes.
 
-**Pipeline**
+**Key Highlights**
 - Balanced data using **SMOTE** and **Isolation Forest**.  
 - Compared **Random Forest**, **SVM**, **XGBoost**, and **LSTM** models.  
 - Evaluated using ROC-AUC and F1 metrics to identify strong predictors.
